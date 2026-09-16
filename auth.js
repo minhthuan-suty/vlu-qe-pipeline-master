@@ -21,7 +21,7 @@ function login(username, password) {
     }
 
     // Kiểm tra tài khoản và mật khẩu
-    if (username === "admin" && password === "9999") {
+    if (username === "admin" && password === "123") {
         return true;
     }
 
