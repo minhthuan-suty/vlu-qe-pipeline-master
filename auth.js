@@ -1,3 +1,4 @@
+// Login function for user authentication
 function login(username, password) {
     // Kiểm tra username rỗng
     if (!username || username.trim() === "") {
